@@ -26,4 +26,9 @@ In conclusion, this task demonstrates practical proficiency in deep learning by 
 
 # OUTPUT
 
+<img width="1586" height="635" alt="Image" src="https://github.com/user-attachments/assets/3c9297c2-b688-4572-96c1-e274cb272543" />
+
+<img width="1033" height="969" alt="Image" src="https://github.com/user-attachments/assets/b1c0a18e-54c2-414e-9398-ecc8c4bcbeb8" />
+
+<img width="914" height="560" alt="Image" src="https://github.com/user-attachments/assets/0ce0cf15-7106-4fad-b76a-729c5d26cdba" />
 
